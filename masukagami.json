@@ -1,6 +1,7 @@
 {
  "work": "増鏡",
  "work_id": "masukagami",
+ "repo": "kumoi-no-fumigura/masukagami",
  "yomi": "ますかがみ",
  "category": "歴史物語",
  "editions": [
@@ -932,6 +933,5 @@
    ],
    "text": "918.Ko547M"
   }
- ],
- "repo": "kumoi-no-fumigura/masukagami"
+ ]
 }
